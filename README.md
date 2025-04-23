@@ -64,7 +64,6 @@ OPENAI_API_KEY=<your-openai-api-key>
     }
   ]
 }
-
 ```
 
 ## Seeding the Database
@@ -104,6 +103,8 @@ Once the application is running:
 2. Enter a natural language query in the search box (e.g., "pasta with tomato sauce")
 3. Adjust the maximum number of results if desired
 4. Click "Search" to see semantically similar recipes
+
+<img src="/public/ui-example.png" alt="Vector Search">
 
 ## API Endpoints
 
